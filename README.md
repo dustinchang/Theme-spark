@@ -3,7 +3,7 @@ A dark Sublime syntax theme designed to be easy on the eyes, yet have important 
 
 ![screenshot](https://raw.githubusercontent.com/dustinchang/Theme-spark/master/screenshot2.png)
 ##Installation:
-**Package Control**
+**Package Control:**
 
 Search for **Theme-spark** through package control.
 
