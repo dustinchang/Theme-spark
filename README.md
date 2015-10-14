@@ -5,7 +5,7 @@ A dark Sublime syntax theme designed to be easy on the eyes, yet have important 
 ##Installation:
 **Package Control**
 
-Just search for Theme-spark through package control.
+Search for **Theme-spark** through package control.
 
 **Manual:**
 ```
