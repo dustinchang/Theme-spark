@@ -11,6 +11,6 @@ Search for **Theme-spark** through package control.
 ```
 	git clone https://github.com/dustinchang/Theme-spark
 ```
-Then place the **Theme-spark** directory that was cloned, inside here Sublime Packages directory by going to:
+Then place the **Theme-spark** directory that was cloned, inside the Sublime Packages directory by going to:
 
 Preferences->Browse Packages
